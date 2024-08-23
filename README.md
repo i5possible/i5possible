@@ -2,6 +2,8 @@
 
 It's Hong(Alfred) Liang, a web developer and web3 builder.
 
+[简体中文](./README.zh-cn.md)
+
 ## Github Trophies 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=i5possible)](https://github.com/ryo-ma/github-profile-trophy)
 
