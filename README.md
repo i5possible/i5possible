@@ -20,11 +20,6 @@ It's Hong(Alfred) Liang, a web developer and web3 builder.
 - CI/CD: Github Actions, Buildkite, AWS Amplify
 - Cloud: AWS
 
-### Blockchain Development
-
-- Ethereum: Solidity, familiar with Uniswap V3, Aave V3, Chainlink, OpenZeppelin
-- Ton: Tact, can read FunC
-
 ## Philosophy
 - Continuous Learning 📚
   - Always be curious and eager to learn new things
